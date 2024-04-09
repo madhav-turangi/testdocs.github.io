@@ -1,0 +1,56 @@
+{
+  "name": "OpenGrit Docs",
+  "short_name": "OpenGrit Docs",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://demo.gethugothemes.com/dot/site/?utm_source=web_app_manifest",
+  "background_color": "#f9f9f9",
+  "theme_color": "#614c36",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_48x48_resize_box_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_72x72_resize_box_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_96x96_resize_box_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_144x144_resize_box_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_192x192_resize_box_3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/dot/site/images/favicon_huba9519e019682f59330bc79cfdc7b920_17276_512x512_resize_box_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
